@@ -477,7 +477,7 @@ header {
 .footer__bar {
   max-width: var(--max-width);
   margin: auto;
-  padding: 0.5rem;
+  padding: 2rem 1rem;
   text-align: center;
   font-size: 0.8rem;
   color: var(--secondary-color);
